@@ -46,7 +46,7 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Comprender la estructura básica de un programa Java.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/LSzVZwUodlw)
 
 **Contenido**:
 - Qué significa class, public static void main(String[] args).
@@ -155,7 +155,7 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Aprender a proteger los datos dentro de una clase.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/z2AEX0CKs_U)
 
 **Contenido**:
 - Qué es la encapsulación.

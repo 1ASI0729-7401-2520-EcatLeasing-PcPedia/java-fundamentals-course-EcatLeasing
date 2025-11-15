@@ -185,17 +185,18 @@ Al finalizar este curso serás capaz de:
 
 ### 📚 Todas las Actividades Prácticas
 
-| Lección | Tema                                               | Enlace al Editor |
-|---------|----------------------------------------------------|------------------|
-| 1       | Tu primer programa en Java                         | [-](-)           |
-| 2       | Variables y tipos de datos                         | [-](-)           |
-| 3       | Operadores y expresiones                           | [-](-)           |
-| 4       | Estructuras de control: decisiones (if/else)       | [-](-)           |
-| 5       | Estructuras de control: bucles (for y while)       | [-](-)           |
-| 6       | Métodos: dividir el código en partes               | [-](-)           |
-| 7       | Introducción a la Programación Orientada a Objetos | [-](-)           |
-| 8       | Encapsulación: getters, setters y constructores    | [-](-)           |
-| 9       | Mini proyecto final: Registro de estudiantes       | [-](-)           |
+| Lección | Tema                                               | Enlace al Editor                           |
+|---------|----------------------------------------------------|--------------------------------------------|
+| 1       | Bienvenido al mundo de la programación             | [JDoodle](-)                               |
+| 2       | Tu primer programa en Java                         | [JDoodle](https://www.jdoodle.com/ia/1N53) |
+| 3       | Variables y tipos de datos                         | [JDoodle](-)                               |
+| 4       | Operadores y expresiones                           | [JDoodle](-)                               |
+| 5       | Estructuras de control: decisiones (if/else)       | [JDoodle](-)                               |
+| 6       | Estructuras de control: bucles (for y while)       | [JDoodle](-)                               |
+| 7       | Métodos: dividir el código en partes               | [JDoodle](-)                               |
+| 8       | Introducción a la Programación Orientada a Objetos | [JDoodle](-)                               |
+| 9       | Encapsulación: getters, setters y constructores    | [JDoodle](https://www.jdoodle.com/ia/1N52) |
+| 10      | Mini proyecto final: Registro de estudiantes       | [JDoodle](-)                               |
 
 
 ## Elaboración

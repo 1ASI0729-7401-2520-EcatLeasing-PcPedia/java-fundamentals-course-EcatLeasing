@@ -31,7 +31,7 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Entender qué es programar y para qué sirve Java.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://www.youtube.com/watch?v=hK5B6NTyS-g)
 
 **Contenido**:
 - Qué es programar (dar instrucciones a la computadora).
@@ -124,7 +124,7 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Entender qué son las funciones y cómo ayudan a organizar el código.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](youtube.com/watch?v=9-LvowLWrOs&feature=youtu.be)
 
 **Contenido**:
 - Qué es una función.

@@ -93,7 +93,7 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Aprender a tomar decisiones con condicionales.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://www.youtube.com/watch?v=U1qeZn1CruY)
 
 **Contenido**:
 - Qué es una condición.

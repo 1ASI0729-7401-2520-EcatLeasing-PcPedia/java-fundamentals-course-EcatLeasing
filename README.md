@@ -61,7 +61,7 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Aprender a guardar y usar información.
 
-**🎥 Enlace al video**: [Ver la lección]((https://www.youtube.com/watch?v=NwGeVbx9CWE))
+**🎥 Enlace al video**: [Ver la lección](https://www.youtube.com/watch?v=NwGeVbx9CWE)
 
 **Contenido**:
 - Qué es una variable y por qué es importante.

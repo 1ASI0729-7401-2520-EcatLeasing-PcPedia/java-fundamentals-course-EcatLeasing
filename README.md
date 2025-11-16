@@ -191,11 +191,11 @@ Al finalizar este curso serás capaz de:
 | 1       | Bienvenido al mundo de la programación             | [JDoodle](-)                               |
 | 2       | Tu primer programa en Java                         | [JDoodle](https://www.jdoodle.com/ia/1N53) |
 | 3       | Variables y tipos de datos                         | [JDoodle](-)                               |
-| 4       | Operadores y expresiones                           | [JDoodle](-)                               |
+| 4       | Operadores y expresiones                           | [JDoodle](https://www.jdoodle.com/ia/1N7u)                               |
 | 5       | Estructuras de control: decisiones (if/else)       | [JDoodle](https://www.jdoodle.com/ia/1N7i) |
 | 6       | Estructuras de control: bucles (for y while)       | [JDoodle](-)                               |
 | 7       | Métodos: dividir el código en partes               | [JDoodle](-)                               |
-| 8       | Introducción a la Programación Orientada a Objetos | [JDoodle](-)                               |
+| 8       | Introducción a la Programación Orientada a Objetos | [JDoodle](https://www.jdoodle.com/ia/1N7s)                               |
 | 9       | Encapsulación: getters, setters y constructores    | [JDoodle](https://www.jdoodle.com/ia/1N52) |
 | 10      | Mini proyecto final: Registro de estudiantes       | [JDoodle](https://www.jdoodle.com/ia/1N7h) |
 

@@ -140,7 +140,7 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Comprender qué son clases y objetos.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/gqeTsUZ6kkw)
 
 **Contenido**:
 - Qué son objetos (comparación con la vida real).

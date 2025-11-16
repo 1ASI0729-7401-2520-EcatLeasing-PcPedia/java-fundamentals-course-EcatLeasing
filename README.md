@@ -77,7 +77,8 @@ Al finalizar este curso serás capaz de:
 
 **Objetivo**: Aprender a hacer cálculos y combinar valores.
 
-**🎥 Enlace al video**: [Ver la lección](-)
+**🎥 Enlace al video**: [Ver la lección](https://youtu.be/SFGvgbducyQ)
+
 
 **Contenido**:
 - Operadores aritméticos (+, -, *, /, %).
